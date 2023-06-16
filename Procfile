@@ -1,0 +1,1 @@
+worker: python viki_bot.py
